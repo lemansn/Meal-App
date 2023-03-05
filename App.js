@@ -67,7 +67,7 @@ export default function App() {
           <Stack.Screen name="MealsOverview" component={MealsOverviewScreen} />
           <Stack.Screen name="MealsDetail" component={MealsDetailScrenn} options={{
 
-            title: "Meal's Detail"
+            title: "Meal's Details"
           }}/>
 
 
