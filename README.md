@@ -1,4 +1,4 @@
-# Meal's-App
+# Meals-App
 
 It is a React Native Meal App that shows categories, overview and details screen. Also, we can add meals to the favorites screen by clicking the star icon on the detail screen.
 
