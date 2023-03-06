@@ -27,8 +27,7 @@ function FavoritesContextProvider({ children }) {
 
   return (
     <FavoritesContext.Provider value={value}>
-      {children}
-    </FavoritesContext.Provider>
+      {children}</FavoritesContext.Provider>
   );
 }
 

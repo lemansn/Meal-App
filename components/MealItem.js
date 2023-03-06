@@ -32,6 +32,7 @@ function MealItem({id,title, imageUrl,complexity, duration, affordability}){
     </View>
     </Pressable>
     </View>;
+    
 }
 
 export default MealItem;
